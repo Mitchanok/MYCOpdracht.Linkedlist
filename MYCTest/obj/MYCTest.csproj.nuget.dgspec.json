@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\MYCOpdracht1\\MYCTest\\MYCTest.csproj": {}
+    "C:\\Users\\mitch\\Documents\\GitHub\\MYCOpdracht.Linkedlist\\MYCTest\\MYCTest.csproj": {}
   },
   "projects": {
-    "D:\\C#\\MYCOpdracht1\\MYCOpdracht1\\MYCOpdracht1.csproj": {
+    "C:\\Users\\mitch\\Documents\\GitHub\\MYCOpdracht.Linkedlist\\MYCOpdracht1\\MYCOpdracht1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\MYCOpdracht1\\MYCOpdracht1\\MYCOpdracht1.csproj",
+        "projectUniqueName": "C:\\Users\\mitch\\Documents\\GitHub\\MYCOpdracht.Linkedlist\\MYCOpdracht1\\MYCOpdracht1.csproj",
         "projectName": "MYCOpdracht1",
-        "projectPath": "D:\\C#\\MYCOpdracht1\\MYCOpdracht1\\MYCOpdracht1.csproj",
+        "projectPath": "C:\\Users\\mitch\\Documents\\GitHub\\MYCOpdracht.Linkedlist\\MYCOpdracht1\\MYCOpdracht1.csproj",
         "packagesPath": "C:\\Users\\mitch\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\MYCOpdracht1\\MYCOpdracht1\\obj\\",
+        "outputPath": "C:\\Users\\mitch\\Documents\\GitHub\\MYCOpdracht.Linkedlist\\MYCOpdracht1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -64,14 +64,14 @@
         }
       }
     },
-    "D:\\C#\\MYCOpdracht1\\MYCTest\\MYCTest.csproj": {
+    "C:\\Users\\mitch\\Documents\\GitHub\\MYCOpdracht.Linkedlist\\MYCTest\\MYCTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\MYCOpdracht1\\MYCTest\\MYCTest.csproj",
+        "projectUniqueName": "C:\\Users\\mitch\\Documents\\GitHub\\MYCOpdracht.Linkedlist\\MYCTest\\MYCTest.csproj",
         "projectName": "MYCTest",
-        "projectPath": "D:\\C#\\MYCOpdracht1\\MYCTest\\MYCTest.csproj",
+        "projectPath": "C:\\Users\\mitch\\Documents\\GitHub\\MYCOpdracht.Linkedlist\\MYCTest\\MYCTest.csproj",
         "packagesPath": "C:\\Users\\mitch\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\MYCOpdracht1\\MYCTest\\obj\\",
+        "outputPath": "C:\\Users\\mitch\\Documents\\GitHub\\MYCOpdracht.Linkedlist\\MYCTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -93,8 +93,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\C#\\MYCOpdracht1\\MYCOpdracht1\\MYCOpdracht1.csproj": {
-                "projectPath": "D:\\C#\\MYCOpdracht1\\MYCOpdracht1\\MYCOpdracht1.csproj"
+              "C:\\Users\\mitch\\Documents\\GitHub\\MYCOpdracht.Linkedlist\\MYCOpdracht1\\MYCOpdracht1.csproj": {
+                "projectPath": "C:\\Users\\mitch\\Documents\\GitHub\\MYCOpdracht.Linkedlist\\MYCOpdracht1\\MYCOpdracht1.csproj"
               }
             }
           }
